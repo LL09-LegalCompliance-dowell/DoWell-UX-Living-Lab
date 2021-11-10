@@ -3,8 +3,9 @@ Updated on 08-11-2021.
 
 We, **Dowel Research** Pte. Ltd are committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed. This Privacy Policy applies to our website, application, and its associated subdomains (collectively, our "Service") alongside our By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service.
 
+### Definitions and key terms
 
-
+ 
 You can use the [editor on GitHub](https://github.com/LL09-LegalCompliance-dowell/R.09.003.Privacy_policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
