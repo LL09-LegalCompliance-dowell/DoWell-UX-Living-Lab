@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Privacy Policy
+Updated on 08-11-2021.
+
 
 You can use the [editor on GitHub](https://github.com/LL09-LegalCompliance-dowell/R.09.003.Privacy_policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
