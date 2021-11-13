@@ -68,6 +68,24 @@ We may share portions of our log file data, including IP addresses for analytics
  
  We are incorporated in Information collected via our website, through direct interactions with you, or from use of our help services may be transferred from time to time to our offices or personnel, or to third parties, located throughout the world, and may be viewed and hosted anywhere in the world, including countries that may not have laws of general applicability regulating the use and transfer of such data. To the fullest extent allowed by applicable law, by using any of the above, you voluntarily consent to the trans-border transfer and hosting of such information.
  
+### PRIVACY LAWS APPLICABLE OVER THE WORLD:
+
+### California Online Privacy Protection Act (CalOPPA)
+
+This act applies to the people resident in California. This act states that if your app or website collects personally identifiable data from residents of the state of California, you must have a Privacy Policy.
+
+### Personal Information Protection and Electronic Documents Act (PIPEDA)
+
+This act applies to residents of Canada and it sets out the requirements for how organizations must handle personal information of Canadian residents.
+
+### The Act on the Protection of Personal Information 
+
+This act applies to Japan and has similar privacy laws of that of GDPR.
+
+### Australia’s Privacy Act of 1988 
+
+This act protects the personal data of Australian citizens. 
+
  ### Is the information collected through our service secure?
  
  We take precautions to protect the security of your information We have physical electronic and managerial procedures to help safeguard prevent unauthorized access, maintain data security and correctly use your information However, neither people nor security systems are foolproof including encryption systems In addition, people can commit intentional crimes make mistakes or tail to follow policies Therefore, while we use reasonable efforts to protect your personal information, we cannot guarantee its absolute security If applicable law imposes any non-disclaimable duty to protect your personal information, you agree that intentional misconduct will be the standards used to measure our compliance with that duty. 
