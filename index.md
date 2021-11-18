@@ -186,10 +186,9 @@ We are aware that if you are working with EU customers, you need to be able to p
 
 ***Contact us:***
 
-***D’Well Informatics & Services Pvt Ltd
-H-10, Kasthurba Nagar,
-Kadavanthra,
-Kochi-682020 ***
+***Dowell Research Pte Ltd,
+Six battery road, 
+Singapore - 049909 ***
 
 
 
