@@ -186,10 +186,10 @@ We are aware that if you are working with EU customers, you need to be able to p
 
 ***Contact us:***
 
-***DoWell Research Pte Limited
-Level 42, Six Battery Road,
-Singapore- 049909
-thomas@dowellresearch.sg***
+***D’Well Informatics & Services Pvt Ltd
+H-10, Kasthurba Nagar,
+Kadavanthra,
+Kochi-682020 ***
 
 
 
